@@ -18,7 +18,7 @@
                 <li><a href="#">Programs</a></li>
                 <li><a href="#">Events</a></li>
                 <li><a href="#">Campuses</a></li>
-                <li><a href="#">This theme is updated</a></li>
+                <li><a href="#">This theme is updated and is on main</a></li>
               </ul>
             </nav>
           </div>
